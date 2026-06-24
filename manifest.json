@@ -1,0 +1,18 @@
+{
+"name": "Space Dodge",
+"short_name": "SpaceDodge",
+"description": "Dodge meteors, destroy enemy ships and survive as long as possible.",
+"start_url": "/",
+"scope": "/",
+"display": "standalone",
+"orientation": "portrait",
+"background_color": "#000000",
+"theme_color": "#00ffea",
+"icons": [
+{
+"src": "107f0e1c-df9f-4661-b613-90d51542eba1.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
